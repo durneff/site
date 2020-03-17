@@ -89,7 +89,7 @@ main {
 }
 main > div.container {
     flex: 1 0 auto;
-    background-color: cadetblue;
+    background-color: #fff;
 }
 section {
     flex: 3 0 auto;
