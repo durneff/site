@@ -68,7 +68,7 @@ img{
 /* Шапка сайта */
 header {
     flex: 0 0 auto;
-    background-color: cadetblue;
+    background-color: white;
     height: 100px;
     color: white;
 }
