@@ -68,9 +68,9 @@ img{
 /* Шапка сайта */
 header {
     flex: 0 0 auto;
-    background-color: cadetblue;
+    background-color: #000;
     height: 100px;
-    color: white;
+    color: #fff;
 }
 header > div.container {
     height: 100%;
@@ -85,7 +85,7 @@ header ul il {
 main {
     display: flex;
     flex: 1 0 auto;
-    background-color: white;
+    background-color: #777;
 }
 main > div.container {
     flex: 1 0 auto;
@@ -104,9 +104,9 @@ aside {
 /* Подвал сайта */
 footer {
     flex: 0 0 auto;
-    background-color: cadetblue;
+    background-color: #000;
     height: 200px;
-    color: white;
+    color: #fff;
 }
 
 footer > div.container {
