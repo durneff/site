@@ -68,7 +68,7 @@ img{
 /* Шапка сайта */
 header {
     flex: 0 0 auto;
-    background-color: white;
+    background-color: cadetblue;
     height: 100px;
     color: white;
 }
@@ -85,7 +85,7 @@ header ul il {
 main {
     display: flex;
     flex: 1 0 auto;
-    background-color: cadetblue;
+    background-color: white;
 }
 main > div.container {
     flex: 1 0 auto;
