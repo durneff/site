@@ -53,9 +53,11 @@ img{
 }
 .col-4{
     flex: 4;
-}.col-5{
+}
+.col-5{
     flex: 5;
-}.col-6{
+}
+.col-6{
     flex: 6;
 }
 @media (max-width: 800px) {
@@ -66,6 +68,16 @@ img{
 /* Шапка сайта */
 header {
     flex: 0 0 auto;
+    background-color: cadetblue;
+    height: 100px;
+    color: white;
+}
+header > div.container {
+    height: 100%;
+    align-items: center;
+}
+header ul il {
+    margin-right: 20px;
 }
 
 
@@ -73,19 +85,35 @@ header {
 main {
     display: flex;
     flex: 1 0 auto;
+    background-color: cadetblue;
 }
 main > div.container {
     flex: 1 0 auto;
+    background-color: cadetblue;
 }
 section {
     flex: 3 0 auto;
+    padding: 0 15px;
 }
 aside {
     flex: 1 0 auto;
+    padding: 0 15px;
 }
 
 
 /* Подвал сайта */
 footer {
     flex: 0 0 auto;
+    background-color: cadetblue;
+    height: 200px;
+    color: white;
+}
+
+footer > div.container {
+    height: 100%;
+    padding: 10px 0;
+}
+
+footer nav ul {
+    margin-right: 30px;
 }
