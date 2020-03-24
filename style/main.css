@@ -138,7 +138,7 @@ footer nav ul {
 footer li {
     line-height: 2em;
 }
-button {
+.button {
     background-color: #666;
     border-radius: 5px;
     padding: 20px 30px;
