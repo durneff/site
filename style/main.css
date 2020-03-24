@@ -80,7 +80,9 @@ header > div.container {
 header ul li {
     margin-right: 20px;
 }
-
+header .logo{
+    width: 100px;
+}
 
 /* Основное содержимое */
 main {
@@ -105,6 +107,16 @@ aside {
     flex: 1 0 auto;
     padding: 0 15px;
 }
+aside a {
+    color: #000;
+    text-decoration: none;
+}
+aside a:hover {
+    text-decoration: underline;
+}
+aside li {
+    line-height: 1.5em
+}
 
 
 /* Подвал сайта */
@@ -123,6 +135,9 @@ footer > div.container {
 footer nav ul {
     margin-right: 30px;
 }
+footer li {
+    line-height: 2em;
+}
 button {
     background-color: #666;
     border-radius: 5px;
@@ -138,7 +153,6 @@ footer a {
     color: #fff;
     text-decoration: none;
 }
-aside a:hover,
 header a:hover,
 footer a:hover {
     text-decoration: underline;
