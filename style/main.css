@@ -89,7 +89,7 @@ main {
     background-color: #777;
 }
 main {
-    background-image: url(/site/images/background.jpg)
+    background-image: url(/site/images/background.jpg);
     background-position: center center;
     background-size: cover;
 }
