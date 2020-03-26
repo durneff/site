@@ -1,0 +1,78 @@
+/* Импорт стилей, шрифтов и иконок */
+/* СБрос CSS */
+@import url("htps://marksheet.io/css/reset.css")
+
+
+/* базовые стили */
+html {
+    height: 100px;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100px;
+}
+.container {
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+
+/* Предустановки */
+.row {
+    flex-direction: row;
+}
+.column {
+    flex-direction: column;
+}
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+
+/* гипкая верстка */
+img {
+    width: 100%;
+    max-width: 100%;
+}
+.col-1 {
+    flex: 1;
+}
+.col-2 {
+    flex: 2;
+}
+.col-3 {
+    flex: 3;
+}
+.col-4 {
+    flex: 4;
+}
+.col-5 {
+    flex: 5;
+}
+.col-6 {
+    flex: 6;
+}
+@media (max-width: 800px) {
+    .container {
+        flex-direction: column;
+    }
+}
+
+
+/* Шапка сайта */
+header {
+    flex: 0 0 auto
+}
+
+
+/* Основное содержимое */
+section {
+    flex: 0 0 auto
+}
+section > dix.container {
+    flex: 0 0 auto;
+}
