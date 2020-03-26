@@ -1,11 +1,11 @@
 /* Импорт стилей, шрифтов и иконок */
 /* СБрос CSS */
-@import url("htps://marksheet.io/css/reset.css")
+@import url("https://marksheet.io/css/reset.css");
 
 
 /* базовые стили */
 html {
-    height: 100px;
+    height: 100%;
 }
 body {
     display: flex;
