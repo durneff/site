@@ -3,14 +3,14 @@
 @import url("https://marksheet.io/css/reset.css");
 
 
-/* базовые стили */
+/* Базовые стили */
 html {
     height: 100%;
 }
 body {
     display: flex;
     flex-direction: column;
-    height: 100px;
+    height: 100%;
 }
 .container {
     width: 100%;
@@ -33,7 +33,7 @@ nav ul {
 }
 
 
-/* гипкая верстка */
+/* Гипкая верстка */
 img {
     width: 100%;
     max-width: 100%;
@@ -68,24 +68,34 @@ header {
     flex: 0 0 auto;
     background-color: #000;
 }
-.moon {
-    background-color: #000;
-}
-.advantages {
-    background-color: #000;
-}
-.content {
-    background-color: #fff;
-}
 
 
 /* Основное содержимое */
+.moon-toor {
+    background-color: #000;
+    flex: 1 0 auto;
+}
+.advantages {
+    background-color: #000;
+    flex: 1 0 auto;
+}
+.content {
+    background-color: #fff;
+    flex: 1 0 auto;
+}
 section {
     flex: 0 0 auto;
 }
-section > dix.container {
+section > div.container {
     flex: 0 0 auto;
 }
+footer {
+    flex: 0 0 auto;
+    background-color: #000;
+}
+
+
+/* Подвал сайта */
 footer {
     flex: 0 0 auto;
     background-color: #000;
