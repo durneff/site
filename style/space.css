@@ -96,4 +96,5 @@ section > div.container {
 footer {
     flex: 0 0 auto;
     background-color: #000;
+    width: 30%;
 }
