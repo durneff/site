@@ -65,17 +65,28 @@ img {
 
 /* Шапка сайта */
 header {
-    flex: 0 0 auto
+    flex: 0 0 auto;
+    background-color: #000;
+}
+.moon {
+    background-color: #000;
+}
+.advantages {
+    background-color: #000;
+}
+.content {
+    background-color: #fff;
 }
 
 
 /* Основное содержимое */
 section {
-    flex: 0 0 auto
+    flex: 0 0 auto;
 }
 section > dix.container {
     flex: 0 0 auto;
 }
 footer {
-    flex: 0 0 auto
+    flex: 0 0 auto;
+    background-color: #000;
 }
