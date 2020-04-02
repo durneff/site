@@ -67,22 +67,27 @@ img {
 /* Шапка сайта */
 header {
     flex: 0 0 auto;
+    background-color: dimgray;
 }
 
 
 /* Основное содержимое */
 .moon-tour {
     flex: 1 0 auto;
+    background-color: dimgray;
 }
 .advantages {
     flex: 1 0 auto;
+    background-color: black;
 }
 .content {
     flex: 1 0 auto;
+    background-color: white;
 }
 
 
 /* Подвал сайта */
 footer {
     flex: 0 0 auto;
+    background-color: bkack
 }
