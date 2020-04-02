@@ -84,17 +84,10 @@ header {
     background-color: #fff;
     flex: 1 0 auto;
 }
-section {
-    flex: 1 0 auto;
-}
-section > div.container {
-    flex: 1 0 auto;
-}
 
 
 /* Подвал сайта */
 footer {
     flex: 0 0 auto;
     background-color: #000;
-    width: 30%;
 }
