@@ -67,21 +67,17 @@ img {
 /* Шапка сайта */
 header {
     flex: 0 0 auto;
-    background-color: #000;
 }
 
 
 /* Основное содержимое */
 .moon-tour {
-    background-color: #000;
     flex: 1 0 auto;
 }
 .advantages {
-    background-color: #000;
     flex: 1 0 auto;
 }
 .content {
-    background-color: #fff;
     flex: 1 0 auto;
 }
 
@@ -89,5 +85,4 @@ header {
 /* Подвал сайта */
 footer {
     flex: 0 0 auto;
-    background-color: #000;
 }
