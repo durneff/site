@@ -146,9 +146,6 @@ header li a {
 /* Основное содержимое */
 .moon-tour {
     flex: 1 0 auto;
-}
-.moon {
-    flex: 1 0 auto;
     flex-wrap: wrap;
     background-color: #232323;
     padding:  30px 0;
