@@ -144,24 +144,6 @@ header li a {
 .moon-tour {
     flex: 1 0 auto;
 }
-.advantages {
-    flex: 1 0 auto;
-    padding: 55 px 0 85px 0;
-    background-color: #000;
-    color: #fff;
-}
-.advantages dev {
-    justify-content: space-around;
-}
-.advantages .block-item {
-    max-width: 200px;
-}
-.advantages img {
-    padding: 30 px 0;
-}
-.content {
-    flex: 1 0 auto;
-}
 .moon {
     flex: 1 0 auto;
     flex-wrap: wrap;
@@ -192,6 +174,25 @@ header li a {
     width:  100%;
     max-width: 438px;
     margin: 30px 0;
+}
+
+.advantages {
+    flex: 1 0 auto;
+    padding: 55 px 0 85px 0;
+    background-color: #000;
+    color: #fff;
+}
+.advantages dev {
+    justify-content: space-around;
+}
+.advantages .block-item {
+    max-width: 200px;
+}
+.advantages img {
+    padding: 30 px 0;
+}
+.content {
+    flex: 1 0 auto;
 }
 
 
