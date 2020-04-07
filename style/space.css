@@ -139,6 +139,9 @@ header li a {
     padding-bottom: 20px;
     align-items: center;
 }
+.headr-icon img {
+    padding-right: 20px;
+}
 
 /* Основное содержимое */
 .moon-tour {
