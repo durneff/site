@@ -114,7 +114,7 @@ strong {
 header {
     flex: 0 0 auto;
     height: 50px;
-    background-color: #676767;
+    background-color: #232323;
     font-size: 0.9em;
 }
 header > div.container {
@@ -126,12 +126,12 @@ header ul {
     padding-bottom: 20px;
 }
 header li {
-    color: #fff;
+    color: #232323;
 }
 header li a {
     padding:  50px 10px 10px 10px ;
     margin-right: 10px;
-    color: #777;
+    color: #232323;
     text-decoration: none;
 }
 .header-icon {
@@ -147,7 +147,7 @@ header li a {
 .moon {
     flex: 1 0 auto;
     flex-wrap: wrap;
-    background-color: #777;
+    background-color: #232323;
     padding:  30px 0;
 }
 .moon-header {
@@ -240,7 +240,7 @@ footer {
     flex: 0 0 auto;
     padding: 85px 0 55 0;
     background-color: #000;
-    color: #777;
+    color: #232323;
 }
 .copyright {
     color: #fff;
