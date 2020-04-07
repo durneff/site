@@ -11,6 +11,8 @@ body {
     display: flex;
     flex-direction: column;
     height: 100%;
+    font-family: Verdana, sans-serif;
+    font-size: 12px;
 }
 .container {
     width: 100%;
@@ -32,13 +34,17 @@ nav ul {
     padding: 0;
     list-style: none;
 }
+strong {
+    font-weight: bold;
+}
+.block {
+    display: flex;
+    width: 100%;
+    margin: 0 auto;
+}
 
 
 /* Гипкая верстка */
-img {
-    width: 100%;
-    max-width: 100%;
-}
 .col-1 {
     flex: 1;
 }
@@ -67,27 +73,46 @@ img {
 /* Шапка сайта */
 header {
     flex: 0 0 auto;
+    height: 800px;
     background-color: dimgray;
+    font-size: 0.9em;
 }
-
+header > div.container {
+    height: 100%;
+    align-items: flex-end;
+}
+header ul {
+    display: flex;
+    padding-bottom: 20px;
+}
+header li {
+    color: #fff;
+}
+header li a {
+    padding:  50px 10px 10px 10px ;
+    margin-right: 10px;
+    color: #fff;
+    text-decoration: none;
+}
+.header-icon {
+    display: flex;
+    padding-bottom: 20px;
+    align-items: center;
+}
 
 /* Основное содержимое */
 .moon-tour {
     flex: 1 0 auto;
-    background-color: dimgray;
 }
 .advantages {
     flex: 1 0 auto;
-    background-color: black;
 }
 .content {
     flex: 1 0 auto;
-    background-color: white;
 }
 
 
 /* Подвал сайта */
 footer {
-    flex: 1 0 auto;
-    background-color: black;
+    flex: 0 0 auto;
 }
