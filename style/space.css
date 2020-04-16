@@ -57,7 +57,7 @@ strong {
     color: #222222;
     border-radius: 50px;
 }
-.dtn: :after {
+.dtn::after {
     content: "";
     position: absolute;
     right: 20px;
