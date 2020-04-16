@@ -113,7 +113,7 @@ strong {
 /* Шапка сайта */
 header {
     flex: 0 0 auto;
-    height: 50px;
+    height: 60px;
     background-color: #232323;
     font-size: 0.9em;
 }
