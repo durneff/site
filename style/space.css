@@ -129,7 +129,7 @@ header ul {
     padding-bottom: 20px;
 }
 header li {
-    color: #666;
+    color: #777;
 }
 header li a {
     padding:  50px 10px 10px 10px ;
@@ -255,7 +255,7 @@ footer h3 {
     border-bottom: 1px solid #777;
 }
 footer h3 a {
-    color: #232323;
+    color: #777;
     text-decoration: none;
 }
 footer li {
