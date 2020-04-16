@@ -154,7 +154,7 @@ header li a {
 }
 .moon-header {
     width: 300px;
-    margin: 0 5 vw;
+    margin: 0 5vw;
     padding: 60px 0;
 }
 .moon h1 {
@@ -190,7 +190,7 @@ header li a {
     max-width: 200px;
 }
 .advantages img {
-    padding: 30 px 0;
+    padding: 30px 0;
 }
 .content {
     flex: 1 0 auto;
