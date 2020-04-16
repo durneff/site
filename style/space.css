@@ -258,6 +258,8 @@ footer li {
     margin-bottom: 20px;
 }
 footer li a {
-    color:#fff;
+    padding:  50px 10px 10px 10px;
+    margin-right: 10px;
+    color: #232323;
     text-decoration: none;
 }
