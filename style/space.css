@@ -208,11 +208,11 @@ header li a {
     padding: 30px 0;
 }
 .content img {
-    width: 440px;
+    width: 100%;
     max-width: 440px;
 }
 .content h2 {
-    font-family: counrier new, sans-serif;
+    font-family: courier new, sans-serif;
     font-size: 1.6em;
     font-weight: bold;
     padding-bottom: 40px;
