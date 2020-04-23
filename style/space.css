@@ -106,9 +106,22 @@ strong {
 .col-6 {
     flex: 6;
 }
-@media (max-width: 800px) {
+@media (max-width: 1024px) {
     .container {
+        padding: 0 15px;
+    }
+}
+@media (max-width: 800px) {
+    header > div.container,
+    section .container,
+    .content .block,
+    footer .container {
         flex-direction: column;
+        align-items: center;
+    }
+    .moon-rocket {
+        order: -1;
+        width: 300px;
     }
 }
 
@@ -116,17 +129,17 @@ strong {
 /* Шапка сайта */
 header {
     flex: 0 0 auto;
-    height: 70px;
     background-color: #232323;
     font-size: 0.9em;
+    font-family: sans-serif;
 }
 header > div.container {
     height: 100%;
-    align-items: flex-end;
+    padding-top: 50px;
 }
 header ul {
     display: flex;
-    padding-bottom: 20px;
+    padding-top: 50px;
 }
 header li {
     color: #777;
@@ -139,7 +152,7 @@ header li a {
 }
 .header-icon {
     display: flex;
-    padding-bottom: 20px;
+    padding-top: 50px;
     align-items: center;
 }
 .header-icon img {
