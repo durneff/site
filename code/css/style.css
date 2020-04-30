@@ -532,7 +532,6 @@ img {
 .breed-features__lead {
   margin-bottom: 23px;
   width: 62%;
-  text-transform: uppercase;
 }
 
 .breed-features__list {
@@ -568,6 +567,7 @@ img {
   height: 15px;
   background-color: #a07b50;
     color: #a07b50;
+    border-radius: 10;
 }
 
 .breed-features__item--cohabitation {
