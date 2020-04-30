@@ -78,10 +78,14 @@ img {
 }
 
 .container {
+    display: flex;
   position: relative;
   max-width: 1286px;
   margin: 0 auto;
   padding: 0 40px;
+}
+.row {
+    flex-direction: row;
 }
 
 .section__wrapper {
