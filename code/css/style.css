@@ -78,7 +78,6 @@ img {
 }
 
 .container {
-    display: flex;
   position: relative;
   max-width: 1286px;
   margin: 0 auto;
