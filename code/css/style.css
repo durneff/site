@@ -84,9 +84,7 @@ img {
   margin: 0 auto;
   padding: 0 40px;
 }
-.row {
-    flex-direction: row;
-}
+
 
 .section__wrapper {
   display: flex;
