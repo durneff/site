@@ -648,6 +648,7 @@ img {
 
 .advantages {
   background-color: #151313;
+    flex: 1 0 auto;
 }
 
 .advantages__wrapper {
