@@ -101,7 +101,10 @@ img {
 .column {
     flex-direction: column;
 }
-
+.viravnivanie {
+    margin-right: 10px;
+    text-align: center;
+}
 
 .section__wrapper {
   display: flex;
