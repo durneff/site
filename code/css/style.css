@@ -76,6 +76,9 @@ img {
   border: 0;
   clip-path: inset(100%);
 }
+breed-features__item--cohabitation2:hover {
+    color: #fff;
+}
 
 
 .pets_btn:hover {
