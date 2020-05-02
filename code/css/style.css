@@ -618,6 +618,10 @@ img {
   color: #ffffff;
   position: relative;
 }
+.breed-features__item,
+.breed-features__item--instruction:hover {
+    text-decoration: inherit;
+}
 
 .breed-features__item::before {
   content: "";
