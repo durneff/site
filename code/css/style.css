@@ -297,8 +297,8 @@ img {
   margin-bottom: 110px;
 }
 .header_btn:hover {
-    color: #fff;
-    background-color: #555;
+    color: #999;
+    background-color: #a07b50;
 }
 
 .slider {
@@ -620,7 +620,7 @@ img {
 }
 .breed-features__item,
 .breed-features__item--instruction:hover {
-    text-decoration: inherit;
+    text-decoration: line-through;
 }
 
 .breed-features__item::before {
