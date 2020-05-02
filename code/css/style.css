@@ -78,11 +78,13 @@ img {
 }
 .header_btn:hover {
     color: #a07b50;
+    background-color: #a07b50;
     transition: color 0.3s ease-out, border 0.3s ease-out;
 }
 
 .pets_btn:hover {
     color: #a07b50;
+    background-color: #a07b50;
     transition: color 0.3s ease-out, border 0.3s ease-out;
 }
 .pets_tab:hover {
