@@ -446,10 +446,6 @@ img {
 pets__tab:hover {
     display: block;
   font-family: "Roboto", "Arial", sans-serif;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 18px;
-  line-height: 21px;
   text-decoration: none;
   color: #fff;
   border: none;
