@@ -180,9 +180,10 @@ img {
   max-width: 255px;
     margin-right: 10px;
     text-align: center;
+    color: #fff;
 }
 breed-features__item--cohabitation2:hover {
-    color: #fff;
+    color: #999;
     background-color: azure;
 }
 
