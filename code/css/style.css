@@ -620,7 +620,7 @@ img {
 }
 .breed-features__item,
 .breed-features__item--instruction:hover {
-    text-decoration-line: line-through;
+    text-decoration: font-weight;
 }
 
 .breed-features__item::before {
