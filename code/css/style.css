@@ -443,20 +443,21 @@ img {
   opacity: 0.5;
   transition: opacity 0.3s ease-out;
 }
-pets__tab:hover {
-    display: block;
+.pets__tab:hover {
+  display: block;
   font-family: "Roboto", "Arial", sans-serif;
   font-style: normal;
   font-weight: normal;
-  font-size: 18px;
+  font-size: 20px;
   line-height: 21px;
   text-decoration: none;
-  color: #fff;
+  color: #ffffff;
   border: none;
   background-color: transparent;
   cursor: pointer;
   opacity: 0.5;
   transition: opacity 0.3s ease-out;
+}
 }
 
 .pets__tab--active {
@@ -616,25 +617,19 @@ pets__tab:hover {
   height: 100%;
   object-fit: cover;
   object-position: center;
-    background: #000;
+    background: 100% #000;
 }
 
 
 .gallery__item-img1:hover {
-    background-color: #000;
-    background-size: 518px 382px;
     width: 99%;
     height: 99%;
 }
 .gallery__item-img2:hover {
-    background-color: #000;
-    background-size: 518px 241px;
     width: 99%;
     height: 99%;
 }
 .gallery__item-img3:hover {
-    background-color: #000;
-    background-size: 471px 485px;
     width: 99%;
     height: 99%;
 }
