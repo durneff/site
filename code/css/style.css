@@ -597,7 +597,7 @@ pets__tab:hover {
   line-height: 0;
 }
 
-.gallery__item-img {
+.gallery__item-img1 {
   width: 100%;
   height: 100%;
   object-fit: cover;
@@ -620,7 +620,7 @@ pets__tab:hover {
 }
 
 
-.gallery__item-img:hover {
+.gallery__item-img1:hover {
     background-color: #000;
     background-size: 518px 382px;
     width: 99%;
