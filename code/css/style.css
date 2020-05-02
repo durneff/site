@@ -193,9 +193,9 @@ img {
     color: #fff;
     text-decoration: none;
 }
-breed-features__item--cohabitation3:hover {
+.breed-features__item--cohabitation3:hover {
     color: #999;
-    background-color: azure;
+    background-color: azure
 }
 
 .header__wrapper {
