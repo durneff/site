@@ -598,13 +598,15 @@ pets__tab:hover {
 }
 
 .gallery__item-img {
-  width: 100%;
-  height: 100%;
+  width: 99%;
+  height: 99%;
   object-fit: cover;
   object-position: center;
 }
 .gallery__item-img:hover {
     background-color: #a07b50;
+    width: 100%;
+    height: 100%;
 }
 
 .breed-features {
