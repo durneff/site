@@ -79,13 +79,11 @@ img {
 .header_btn:hover {
     color: blue;
     background-color: blue;
-    transition: color 0.3s ease-out, border 0.3s ease-out;
 }
 
 .pets_btn:hover {
     color: blue;
     background-color: blue;
-    transition: color 0.3s ease-out, border 0.3s ease-out;
 }
 .pets_tab:hover {
 
