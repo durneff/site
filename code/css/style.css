@@ -428,6 +428,10 @@ img {
   transition: opacity 0.3s ease-out;
 }
 pets__tab:hover {
+    color: #fff;
+}
+
+.pets__tab--active {
     display: block;
   font-family: "Roboto", "Arial", sans-serif;
   font-style: normal;
@@ -441,11 +445,6 @@ pets__tab:hover {
   cursor: pointer;
   opacity: 0.5;
   transition: opacity 0.3s ease-out;
-}
-}
-
-.pets__tab--active {
-    color: #fff;
 }
 
 .pets__tab-content {
