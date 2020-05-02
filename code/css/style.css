@@ -607,6 +607,8 @@ pets__tab:hover {
 .gallery__item-img:hover {
     background-color: #000;
     background: 100%;
+    width: 99%;
+    height: 99%;
 }
 
 .breed-features {
