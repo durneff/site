@@ -618,8 +618,7 @@ img {
   color: #ffffff;
   position: relative;
 }
-.breed-features__item,
-.breed-features__item--instruction:hover {
+.breed-features__item,:hover {
     text-decoration: font-weight;
 }
 
