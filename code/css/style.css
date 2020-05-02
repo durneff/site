@@ -77,7 +77,7 @@ img {
   clip-path: inset(100%);
 }
 .header_btn:hover {
-    color: #a07b50;
+    background-color: #a07b50;
 }
 
 .pets_btn:hover {
