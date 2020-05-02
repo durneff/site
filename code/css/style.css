@@ -79,7 +79,7 @@ img {
 .header_btn:hover {
     content: attr(data-hover);
     position: absolute;
-    color: #ffffff;
+    color: #a07b50;
     transition: transform 0.3s, opacity 0.3s;
 }
 .header_btn:hover:before{
@@ -90,7 +90,7 @@ img {
 .pets_btn:hover {
     content: attr(data-hover);
     position: absolute;
-    color: #ffffff;
+    color: #a07b50;
     transition: transform 0.3s, opacity 0.3s;
 }
 .pets_btn:hover:before {
