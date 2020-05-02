@@ -153,7 +153,13 @@ img {
   background-position: right 0 bottom 0;
 }
 
-
+.breed-features__item--cohabitation2 {
+  font-size: 14px;
+  line-height: 21px;
+  top: 343px;
+  left: -409px;
+  max-width: 255px;
+}
 
 .header__wrapper {
   margin: 0 auto;
