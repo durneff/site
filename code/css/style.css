@@ -171,7 +171,6 @@ img {
   background-size: 600px auto;
   background-position: right 0 bottom 0;
 }
-
 .breed-features__item--cohabitation2 {
   font-size: 14px;
   line-height: 21px;
@@ -182,7 +181,19 @@ img {
     text-align: center;
     color: #fff;
 }
-breed-features__item--cohabitation2:hover {
+
+.breed-features__item--cohabitation3 {
+  font-size: 14px;
+  line-height: 21px;
+  top: 343px;
+  left: -409px;
+  max-width: 255px;
+    margin-right: 10px;
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+}
+breed-features__item--cohabitation3:hover {
     color: #999;
     background-color: azure;
 }
