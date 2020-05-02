@@ -76,9 +76,7 @@ img {
   border: 0;
   clip-path: inset(100%);
 }
-breed-features__item--cohabitation2:hover {
-    color: #fff;
-}
+
 
 
 .pets_btn:hover {
@@ -182,6 +180,10 @@ breed-features__item--cohabitation2:hover {
   max-width: 255px;
     margin-right: 10px;
     text-align: center;
+}
+breed-features__item--cohabitation2:hover {
+    color: #fff;
+    background-color: azure;
 }
 
 .header__wrapper {
