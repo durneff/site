@@ -598,20 +598,20 @@ pets__tab:hover {
 }
 
 .gallery__item-img {
-  width:  518px;
-  height: 382px;
+  width:  100%;
+  height: 100%;
   object-fit: cover;
   object-position: center;
 }
 .gallery__item-img1 {
-  width: 518px;
-  height: 241px;
+  width: 100%;
+  height: 100%;
   object-fit: cover;
   object-position: center;
 }
 .gallery__item-img2 {
-  width: 471px;
-  height: 485px;
+  width: 100%;
+  height: 100%;
   object-fit: cover;
   object-position: center;
 }
