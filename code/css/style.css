@@ -620,7 +620,7 @@ img {
 }
 .breed-features__item,
 .breed-features__item--instruction:hover {
-    text-decoration: overline;
+    text-decoration-line: line-through;
 }
 
 .breed-features__item::before {
