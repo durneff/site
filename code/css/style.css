@@ -297,8 +297,23 @@ img {
   margin-bottom: 110px;
 }
 .header__btn:hover {
-    background-color: #777;
-    color; #fff;
+    text-align: center;
+  width: 200px;
+  font-family: "Roboto", "Arial", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 14px;
+  color: #000;
+  display: block;
+  overflow: hidden;
+  cursor: pointer;
+  border: 1px solid #a07b50;
+  background-color: #a07b50;
+  text-decoration: none;
+  padding: 18px;
+  transition: color 0.3s ease-out, border 0.3s ease-out;
+  margin-bottom: 110px;
 }
 
 .slider {
