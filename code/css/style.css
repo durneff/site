@@ -78,10 +78,12 @@ img {
 }
 .header_btn:hover {
     background-color: #a07b50;
+    color: #a07b50;
 }
 
 .pets_btn:hover {
     background-color: #a07b50;
+    color: #a07b50;
 }
 
 .pets_tab:hover {
