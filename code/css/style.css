@@ -684,9 +684,6 @@ pets__tab:hover {
   color: #ffffff;
   position: relative;
 }
-.breed-features__item,:hover {
-    color: #a07b50;
-}
 
 .breed-features__item::before {
   content: "";
