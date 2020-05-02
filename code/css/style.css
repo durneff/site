@@ -77,13 +77,25 @@ img {
   clip-path: inset(100%);
 }
 .header_btn:hover {
-    background-color: #a07b50;
-    color: #a07b50;
+    content: attr(data-hover);
+    position: absolute;
+    color: #ffffff;
+    transition: transform 0.3s, opacity 0.3s;
+}
+.header_btn:hover:before{
+    opacity: 0;
+    transform: scale(0.9);
 }
 
 .pets_btn:hover {
-    background-color: #a07b50;
-    color: #a07b50;
+    content: attr(data-hover);
+    position: absolute;
+    color: #ffffff;
+    transition: transform 0.3s, opacity 0.3s;
+}
+.pets_btn:hover:before {
+    opacity: 0;
+    transform: scale(0.9);
 }
 
 .pets_tab:hover {
