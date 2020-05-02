@@ -76,10 +76,7 @@ img {
   border: 0;
   clip-path: inset(100%);
 }
-.header_btn:hover {
-    color: blue;
-    background-color: blue;
-}
+
 
 .pets_btn:hover {
     color: blue;
@@ -289,6 +286,10 @@ img {
   padding: 18px;
   transition: color 0.3s ease-out, border 0.3s ease-out;
   margin-bottom: 110px;
+}
+.header_btn:hover {
+    color: blue;
+    background-color: blue;
 }
 
 
