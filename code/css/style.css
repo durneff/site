@@ -603,6 +603,9 @@ pets__tab:hover {
   object-fit: cover;
   object-position: center;
 }
+.gallery__item-img:hover {
+    background-color: #a07b50;
+}
 
 .breed-features {
   background-color: #1f1c1d;
