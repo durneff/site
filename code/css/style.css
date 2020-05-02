@@ -297,7 +297,8 @@ img {
   margin-bottom: 110px;
 }
 .header__btn:hover {
-    color: #fff;
+    background-color: #777;
+    color; #fff;
 }
 
 .slider {
