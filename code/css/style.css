@@ -82,7 +82,7 @@ breed-features__item--cohabitation2:hover {
 
 
 .pets_btn:hover {
-    color: blue;
+    color: #fff;
     background-color: blue;
 }
 .pets_tab:hover {
@@ -292,7 +292,7 @@ breed-features__item--cohabitation2:hover {
 }
 .header_btn:hover {
     color: #fff;
-    background-color: #fff;
+    background-color: #555;
 }
 
 .slider {
