@@ -159,6 +159,8 @@ img {
   top: 343px;
   left: -409px;
   max-width: 255px;
+    margin-right: 10px;
+    text-align: center;
 }
 
 .header__wrapper {
