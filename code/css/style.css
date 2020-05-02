@@ -604,7 +604,7 @@ pets__tab:hover {
   object-position: center;
 }
 .gallery__item-img:hover {
-    background-color: #000;
+    background-color: blue;
     width: 99%;
     height: 99%;
 }
