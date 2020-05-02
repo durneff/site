@@ -179,11 +179,11 @@ img {
   max-width: 255px;
     margin-right: 10px;
     text-align: center;
-    color: #999;
+    color: #fff;
 }
 
 .breed-features__item--cohabitation3 {
-    color: #fff;
+    color: #999;
     text-decoration: none;
 }
 .breed-features__item--cohabitation3:hover {
