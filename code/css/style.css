@@ -598,8 +598,8 @@ pets__tab:hover {
 }
 
 .gallery__item-img {
-  width: 100%;
-  height: 100%;
+  width: 99%;
+  height: 99%;
   object-fit: cover;
   object-position: center;
 }
@@ -685,7 +685,7 @@ pets__tab:hover {
   position: relative;
 }
 .breed-features__item,:hover {
-
+    font-size: 13px;
 }
 
 .breed-features__item::before {
