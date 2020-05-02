@@ -686,7 +686,6 @@ pets__tab:hover {
 }
 .breed-features__item,:hover {
     size: 13px;
-    padding: 0 15px;
 }
 
 .breed-features__item::before {
