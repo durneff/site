@@ -24,11 +24,11 @@ body {
 
 /* Предустановки */
 .YellowB {
-    color: yellow;
+    color: #FFD300;
     font-size: 17px;
 }
 .Yellow {
-    color: yellow;
+    color: #FFD300;
     text-decoration: underline;
 
 }
