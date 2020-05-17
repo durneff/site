@@ -29,7 +29,7 @@ body {
 }
 .Yellow {
     color: yellow;
-    text-decoration: line-through;
+    text-decoration: underline;
 
 }
 .row {
