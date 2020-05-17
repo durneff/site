@@ -23,6 +23,15 @@ body {
 
 
 /* Предустановки */
+.YellowB {
+    color: yellow;
+    font-size: 17px;
+}
+.YellowM {
+    color: yellow;
+    text-decoration: line-through;
+
+}
 .row {
     flex-direction: row;
 }
@@ -189,18 +198,6 @@ header li a {
     width:  100%;
     max-width: 438px;
     margin: 30px 0;
-}
-.selection {
-    flex: 1 0 auto;
-    padding: 55px 0 85px 0;
-    background-color: 232323;
-    color: #fff;
-}
-.selection dev {
-    justify-content: space-around;
-}
-.selection .block-item {
-    max-width: 200px;
 }
 .advantages {
     flex: 1 0 auto;
