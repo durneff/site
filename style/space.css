@@ -218,8 +218,8 @@ header li a {
 .schedule {
     flex: 1 0 auto;
     padding: 55px 0 85px 0;
-    background-color: #666;
-    color: #fff;
+    background-color: #fff;
+    color: #666;
 }
 .schedule dev {
     justify-content: space-around;
