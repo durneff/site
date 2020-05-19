@@ -26,6 +26,7 @@ body {
 .YellowB {
     color: #FFD300;
     font-size: 17px;
+    font-family: Verdana, sans-serif;
 }
 .Yellow {
     color: #FFD300;
@@ -212,6 +213,21 @@ header li a {
     max-width: 200px;
 }
 .advantages img {
+    padding: 30px 0;
+}
+.schedule {
+    flex: 1 0 auto;
+    padding: 55px 0 85px 0;
+    background-color: #666;
+    color: #fff;
+}
+.schedule dev {
+    justify-content: space-around;
+}
+.schedule .block-item {
+    max-width: 200px;
+}
+.schedule img {
     padding: 30px 0;
 }
 .content {
