@@ -24,12 +24,13 @@ body {
 
 /* Предустановки */
 .YellowB {
-    margin: 25px 0;
+    margin: 30px 0;
     font-family: Courier new, monospace;
     font-weight: bold;
     font-size: 1.0em;
-    line-height: 26px;
+    line-height: 30px;
     color: #FFD300;
+
 }
 .Yellow {
     color: #FFD300;
