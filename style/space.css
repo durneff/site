@@ -25,6 +25,7 @@ body {
 /* Предустановки */
 .YellowB {
     font-family: Courier new, monospace;
+    font-weight: bold;
     font-size: 1.9em;
     line-height: 30px;
     color: #FFD300;
