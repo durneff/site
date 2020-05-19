@@ -11,7 +11,7 @@ body {
     display: flex;
     flex-direction: column;
     height: 100%;
-    font-family: Verdana, sans-serif;
+    font-family: Courier new, monospace;
     font-size: 12px;
 }
 .container {
