@@ -31,8 +31,12 @@ body {
     color: #FFD300;
 }
 td {
-    border-bottom: 2px solid lightgray;
+    border-bottom: 2px solid #666;
     padding: 10px 25px;
+    font-size: 15px;
+}
+th {
+    border-bottom: 2px solid #666;
     font-size: 15px;
 }
 table {
