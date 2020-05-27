@@ -32,12 +32,12 @@ body {
 }
 td {
     border-bottom: 2px solid #666;
-    padding: 10px 25px;
+    padding: 10px 20px;
     font-size: 12px;
 }
 th {
     border-bottom: 2px solid #666;
-    padding: 10px 25px;
+    padding: 10px 20px;
     font-size: 12px;
 }
 table {
