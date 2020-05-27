@@ -32,7 +32,8 @@ body {
 }
 td {
     border-bottom: 2px solid lightgray;
-    padding: 50px;
+    padding: 30px 5px;
+    font-size: 15px;
 }
 table {
   border-collapse: collapse;
