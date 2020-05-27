@@ -34,6 +34,9 @@ body {
     border-bottom: 2px solid lightgray;
     padding: 50px;
 }
+.table {
+  border-collapse: collapse;
+}
 .Yellow {
     color: #FFD300;
     text-decoration: underline;
