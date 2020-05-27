@@ -30,11 +30,11 @@ body {
     line-height: 30px;
     color: #FFD300;
 }
-.td {
+td {
     border-bottom: 2px solid lightgray;
     padding: 50px;
 }
-.table {
+table {
   border-collapse: collapse;
 }
 .Yellow {
