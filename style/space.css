@@ -29,7 +29,10 @@ body {
     font-size: 1.9em;
     line-height: 30px;
     color: #FFD300;
-
+}
+.td {
+    border-bottom: 2px solid lightgray;
+    padding: 50px;
 }
 .Yellow {
     color: #FFD300;
