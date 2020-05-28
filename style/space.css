@@ -35,6 +35,12 @@ td {
     padding: 10px 20px;
     font-size: 12px;
 }
+.td {
+    border-bottom: 6px solid #999;
+    padding: 10px 20px;
+    font-size: 14px;
+    background-color: #fff;
+}
 th {
     border-bottom: 2px solid #666;
     padding: 10px 20px;
@@ -275,7 +281,8 @@ header li a {
     justify-content: space-between;
 }
 .left-column{
-    max-width: 440px;    padding: 30px 30px 30px 0;
+    max-width: 440px;
+    padding: 30px 30px 30px 0;
 }
 .right-column {
     max-width: 440px;
