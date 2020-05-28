@@ -249,7 +249,7 @@ header li a {
 .schedule1 {
     flex: 1 0 auto;
     padding: 55px 0 85px 0;
-    background-color: #666;
+    background-color: #999;
     color: #fff;
 }
 .schedule1 dev {
@@ -269,8 +269,7 @@ header li a {
     justify-content: space-between;
 }
 .left-column{
-    max-width: 440px;
-    padding: 30px 30px 30px 0;
+    max-width: 440px;    padding: 30px 30px 30px 0;
 }
 .right-column {
     max-width: 440px;
