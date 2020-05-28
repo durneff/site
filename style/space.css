@@ -246,6 +246,21 @@ header li a {
 .schedule img {
     padding: 30px 0;
 }
+.schedule1 {
+    flex: 1 0 auto;
+    padding: 55px 0 85px 0;
+    background-color: #666;
+    color: #fff;
+}
+.schedule1 dev {
+    justify-content: space-around;
+}
+.schedule1 .block-item {
+    max-width: 200px;
+}
+.schedule1 img {
+    padding: 30px 0;
+}
 .content {
     flex: 1 0 auto;
     padding: 55px 0;
