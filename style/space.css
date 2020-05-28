@@ -23,6 +23,10 @@ body {
 
 
 /* Предустановки */
+h10 {
+    font-size: 16px;
+    font-weight: bold;
+}
 .YellowB {
     font-family: Courier new, monospace;
     font-weight: bold;
@@ -250,7 +254,7 @@ header li a {
     flex: 1 0 auto;
     padding: 55px 0 85px 0;
     background-color: #999;
-    color: #fff;
+    color: #000;
 }
 .schedule1 dev {
     justify-content: space-around;
